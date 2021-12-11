@@ -1,4 +1,4 @@
-// Online C compiler to run C program online
+// Hehe Boi
 #include <stdio.h>
 
 int main() {
